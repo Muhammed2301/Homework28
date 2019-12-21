@@ -9,7 +9,7 @@ public class Batken extends District {
 
     @Override
     public void devise() {
-        System.out.println("The away starts from Batken to Kyrgyzstan !!!");
+        System.out.println("The way to Kyrgyzstan starts from Batken  !!!");
     }
 
     @Override

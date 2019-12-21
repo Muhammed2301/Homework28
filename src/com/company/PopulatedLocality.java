@@ -54,8 +54,8 @@ public abstract class PopulatedLocality {
     public abstract void brandOfMessage();
 
     public void information () {
-        System.out.println(name);
         System.out.println(nameManager);
+        System.out.println(name);
         devise();
         religion();
         language();
